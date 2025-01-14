@@ -1,8 +1,3 @@
-# Rainfall_CSIR
-Sure! Here's a well-structured README file for your rainfall prediction project, which you can customize further. I'll also include some ideas for images that would enhance your GitHub repo.
-
----
-
 # Rainfall Prediction Using Machine Learning
 
 ## Overview
