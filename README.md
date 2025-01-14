@@ -100,14 +100,3 @@ Feel free to fork this repository, contribute, or report issues. Contributions a
 ## License
 
 This project is licensed under the CSIR License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Images to include:
-
-1. **Sample Data Visualization:** An image of your data (maybe a scatter plot or time series graph of weather data).
-2. **Model Performance Chart:** A comparison of model performance using various evaluation metrics (e.g., a bar chart showing RMSE of different models).
-3. **Prediction Results:** A line graph comparing predicted vs actual rainfall.
-4. **Feature Importance Chart:** A bar chart showing which features contribute most to the model’s predictions.
-
-Would you like me to help you create these visualizations or generate some image prompts for them?
