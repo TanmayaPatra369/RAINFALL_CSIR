@@ -1,4 +1,8 @@
-# Rainfall Prediction Using Machine Learning
+# Rainfall Prediction Using Machine Learning 
+
+## Documentation
+
+You can access the related documentation [here](https://docs.google.com/document/d/16p8UUPCuUkwHRi5bispmXUEPQqchXkXe/edit?usp=drive_link&ouid=104398427413822736555&rtpof=true&sd=true).
 
 ## Overview
 
@@ -73,7 +77,7 @@ This project aims to predict rainfall based on historical data using machine lea
 
 ## Results and Analysis
 
-After training and evaluating multiple models, the Random Forest model achieved the best performance with an RMSE of X and an R² of Y.
+After training and evaluating multiple models, the Random Forest model and XGBoost achieved the best performance with an RMSE of 0.83 and an R² of 0.82.
 
 ### Visualizations
 
